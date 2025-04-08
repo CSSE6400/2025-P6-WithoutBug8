@@ -1,6 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19063124)
 # CSSE6400 Week 6 Practical
 
+[English](README.md) | [简体中文Chinese](README_ZH.md)
+
+
 Deploying our TaskOverflow application to ECS with a load balancer on AWS using Terraform.
 
 Please see the [instructions](https://csse6400.uqcloud.net/practicals/week06.pdf) for more details.
